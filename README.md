@@ -1,6 +1,6 @@
 ### Hi there 👋, Sandeep Singh Negi
 #### Development and Automation
-![Development and Automation](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![Development and Automation]()
 
 I am a passionate software Engineer who loves learning latest technologies and automating the existing manual work.
 
