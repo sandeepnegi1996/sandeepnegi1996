@@ -20,6 +20,11 @@ Here are some ideas to get you started:
 
 - 💬 Ask me about ...                     Manual to Automation Testing 
 
+- 😄 Pronouns: ...                        He / Him
+
+- ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you  
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sandeepnegi1996)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sandeepnegi1996/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.hashcodehub.com)  
 
