@@ -10,7 +10,9 @@ Skills: HTML / CSS / JS / Angular / Spring Boot/ Java / Maven / Azure devops / A
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...         Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
+- 🔭 I’m currently working on ...         Angular,SpringBoot, Oracle and Elastic Search
+
+- 🔭 I’m have worked on  ...              Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
 
 - 🌱 I’m currently learning ...           CI / CD with Docker with Real Time Reporting 
 
