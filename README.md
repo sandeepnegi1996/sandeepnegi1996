@@ -1,30 +1,28 @@
 ### Hi there 👋, Sandeep Singh Negi
-#### Development and Automation
-![Development and Automation]()
+#### Full Stack Developer
 
 I am a passionate software Engineer who loves learning latest technologies and automating the existing manual work.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepnegi1996)](https://github.com/anuraghazra/github-readme-stats)
+[![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepnegi1996)](https://github.com/sandeepnegi1996/github-readme-stats)
 
 Skills: HTML / CSS / JS / Angular / Spring Boot/ Java / Maven / Azure devops / Azure  AWS
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...         Angular,SpringBoot, Oracle and Elastic Search
+- 🔭 I’m currently working on ...         Angular,SpringBoot,Microservices
 
 - 🔭 I’m have worked on  ...              Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
 
-- 🌱 I’m currently learning ...           CI / CD with Docker with Real Time Reporting 
+- 🌱 I’m currently learning ...           CI / CD with Docker ans Azure Devops
 
-- 👯 I’m looking to collaborate on ...    Cypress.io &  Scriptless Automation & continous Testing
+- 👯 I’m looking to collaborate on ...   Angular and Spring boot
 
-- 🤔 I’m looking for help with ...        ML and AI in automation Testing 
-
-- 💬 Ask me about ...                     Manual to Automation Testing 
+- 💬 Ask me about ...                     Java and Test Automation 
 
 - 😄 Pronouns: ...                        He / Him
 
-- ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you  
+- ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you
+-   
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
