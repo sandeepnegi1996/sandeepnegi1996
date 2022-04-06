@@ -1,5 +1,8 @@
 ### Hi there 👋, Sandeep Singh Negi
 #### Full Stack Developer
+<img src="{https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white}" />
+<img src="{https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white}" />
+
 
 I am a passionate software Engineer who loves learning latest technologies and automating the existing manual work.
 
@@ -28,7 +31,7 @@ Here are some ideas to get you started:
 Apart from working as a Full Stack Developer, I also maintain a blog space - you can find my articles on 
 
 [![](https://img.shields.io/badge/Medium-Blogs-orange)](https://medium.com/@negi-sandeep01906)
-
+[![](https://img.shields.io/badge/Hashbnode-Blogs-orange)](https://medium.com/@negi-sandeep01906)
 
 
 
