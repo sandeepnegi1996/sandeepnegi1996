@@ -22,7 +22,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...                        He / Him
 
 - ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you
--   
+
+
+## &#x270d; Blog & Writing
+Apart from working as a Full Stack Developer, I also maintain a blog space - you can find my articles on 
+
+[![](https://img.shields.io/badge/Medium-Blogs-orange)](https://medium.com/@negi-sandeep01906)
+
+
+
+
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
