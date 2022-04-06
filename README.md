@@ -36,16 +36,6 @@ Apart from working as a Full Stack Developer, I also maintain a blog space - you
 ## &#x270d; Some of my most viewed Medium Articles 
 
 
-<a target="_blank" href="https://hashcodehub.hashnode.dev/java-why-use-java-stream">
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/3" alt="Recent Article 3"> 
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/5" alt="Recent Article 5">  
-  
-<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/7" alt="Recent Article 7">  
-
-
-
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
 
