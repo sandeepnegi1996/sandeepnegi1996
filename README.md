@@ -33,7 +33,16 @@ Apart from working as a Full Stack Developer, I also maintain a blog space - you
 [![](https://img.shields.io/badge/Hashbnode-Blogs-blue)](https://hashcodehub.hashnode.dev/)
 ![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
+## &#x270d; Some of my most viewed Medium Articles 
 
+
+<a target="_blank" href="https://hashcodehub.hashnode.dev/java-why-use-java-stream">
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/3"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/3" alt="Recent Article 3"> 
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/5"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/5" alt="Recent Article 5">  
+  
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/7"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@ghoshasish99/7" alt="Recent Article 7">  
 
 
 
