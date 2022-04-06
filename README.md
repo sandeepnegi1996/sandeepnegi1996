@@ -1,9 +1,9 @@
 ### Hi there 👋, Sandeep Singh Negi
 #### Full Stack Developer
 
-![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
-
 I am a passionate software Engineer who loves learning latest technologies and automating the existing manual work.
+
+You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/sandeepnegi1996/)
 
 [![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepnegi1996)](https://github.com/sandeepnegi1996/github-readme-stats)
 
@@ -31,6 +31,7 @@ Apart from working as a Full Stack Developer, I also maintain a blog space - you
 
 [![](https://img.shields.io/badge/Medium-Blogs-orange)](https://medium.com/@negi-sandeep01906)
 [![](https://img.shields.io/badge/Hashbnode-Blogs-blue)](https://hashcodehub.hashnode.dev/)
+![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)
 
 
 
