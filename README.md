@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...                         If You Find One then share with me. Happy to help you
 
 
+<p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+<img src="https://github-profile-trophy.vercel.app/?username=sandeepnegi1996&theme=gruvbox" />
+
 ## &#x270d; Blogging
 Apart from working as a Full Stack Developer, I also maintain a blog space - you can find my articles on 
 
