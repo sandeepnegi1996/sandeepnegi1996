@@ -7,19 +7,17 @@ You can find me on [![](https://img.shields.io/badge/LinkedIn-blue)](https://www
 
 [![Sandeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=sandeepnegi1996)](https://github.com/sandeepnegi1996/github-readme-stats)
 
-Skills: HTML / CSS / JS / Angular / Spring Boot/ Java / Maven / Azure devops / Azure  AWS
+Skills: Java / Spring Boot/ Vertx / Maven / Microservices
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...         Angular,SpringBoot,Microservices
+- 🔭 I’m currently working on ...         Vertx ,Microservices
 
-- 🔭 I’m have worked on  ...              Java Automation Framework, Advanced in API Automation, Beginner in Performance Testing :)
+- 🔭 I’m have worked on  ...              Spring Boot, Automation Framework Using Selenium, Azure Devops Build Pipelines
 
 - 🌱 I’m currently learning ...           CI / CD with Docker ans Azure Devops
 
-- 👯 I’m looking to collaborate on ...   Angular and Spring boot
-
-- 💬 Ask me about ...                     Java and Test Automation 
+- 👯 I’m looking to collaborate on ...   Java and Spring Boot
 
 - 😄 Pronouns: ...                        He / Him
 
